@@ -1,0 +1,62 @@
+{"timestamp": "2026-05-08T15:56:43.889831", "level": "HIGH", "category": "PORT SCAN DETECTED", "src_ip": "10.0.0.77", "details": "15 ports in 5s"}
+{"timestamp": "2026-05-08T15:56:44.204893", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "192.168.1.100", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T15:56:45.111535", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.226309", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.328377", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.437120", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.539607", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.641957", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.756292", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:45.932218", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:56:46.074884", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T15:56:46.577674", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T15:56:48.168749", "level": "MEDIUM", "category": "ICMP FLOOD DETECTED", "src_ip": "10.0.0.88", "details": "51 ICMP pkts in 2s"}
+{"timestamp": "2026-05-08T15:56:49.638078", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "10.0.0.99", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T15:56:51.474955", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T15:56:52.006478", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T15:57:22.816055", "level": "HIGH", "category": "PORT SCAN DETECTED", "src_ip": "10.0.0.77", "details": "15 ports in 5s"}
+{"timestamp": "2026-05-08T15:57:23.200306", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "192.168.1.100", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T15:57:25.807109", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:25.912921", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.014257", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.124581", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.246028", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.351640", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.460774", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.566710", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T15:57:26.747874", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T15:57:27.266230", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T15:57:29.476079", "level": "MEDIUM", "category": "ICMP FLOOD DETECTED", "src_ip": "10.0.0.88", "details": "51 ICMP pkts in 2s"}
+{"timestamp": "2026-05-08T15:57:30.931857", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "10.0.0.99", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T15:57:32.791292", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T15:57:33.294707", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T16:08:23.842770", "level": "HIGH", "category": "PORT SCAN DETECTED", "src_ip": "10.0.0.77", "details": "15 ports in 5s"}
+{"timestamp": "2026-05-08T16:08:24.468577", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "192.168.1.100", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T16:08:25.633795", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:25.806425", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:25.980104", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:26.154834", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:26.435475", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:26.630658", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:26.774421", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:26.946809", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:08:27.118001", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T16:08:27.815433", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T16:08:35.598434", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "10.0.0.99", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T16:08:43.409707", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T16:08:43.990867", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T16:12:43.826278", "level": "HIGH", "category": "PORT SCAN DETECTED", "src_ip": "10.0.0.77", "details": "15 ports in 5s"}
+{"timestamp": "2026-05-08T16:12:44.280836", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "192.168.1.100", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T16:12:45.336269", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:45.474430", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:45.646429", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:45.817077", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:46.038468", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:46.215743", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:46.436504", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:46.625740", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "172.16.0.50", "details": "Port 22"}
+{"timestamp": "2026-05-08T16:12:46.867070", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T16:12:47.507781", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.10.10.10", "details": "Port 4444"}
+{"timestamp": "2026-05-08T16:12:55.633646", "level": "HIGH", "category": "KNOWN MALICIOUS IP", "src_ip": "10.0.0.99", "details": "IP in blocklist"}
+{"timestamp": "2026-05-08T16:13:21.117039", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
+{"timestamp": "2026-05-08T16:13:21.899078", "level": "MEDIUM", "category": "SUSPICIOUS PORT ACCESS", "src_ip": "10.0.0.44", "details": "Port 23"}
